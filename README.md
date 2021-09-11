@@ -9,7 +9,7 @@
 </h1>
 
 ## :mag: About
-a simple form validation, I created this form to study how we can add classes and styles dynamically.
+a form validation, I created this form to study react and typescript.
 
 ---
 
